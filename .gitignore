@@ -1,0 +1,10 @@
+venv
+*.json
+*.xlsx
+*.xlsm
+*.mht
+pendentes
+lidos
+backup
+projetos.code-workspace
+__pycache__/
